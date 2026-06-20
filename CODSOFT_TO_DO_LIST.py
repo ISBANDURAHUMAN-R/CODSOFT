@@ -55,7 +55,7 @@ def load_tasks():
         pass
 
 root = Tk()
-root.title("To-Do List - Itzu")
+root.title("To-Do List - RAHUMAN")
 root.geometry("500x500")
 root.resizable(False, False)
 
