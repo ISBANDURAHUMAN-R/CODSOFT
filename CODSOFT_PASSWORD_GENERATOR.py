@@ -52,7 +52,7 @@ def copy_password():
     messagebox.showinfo("Copied", "Password copied to clipboard")
 
 root = Tk()
-root.title("Password Generator - Itzu")
+root.title("Password Generator - RAHUMAN")
 root.geometry("450x400")
 root.resizable(False, False)
 
